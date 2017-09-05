@@ -3,7 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jky_app_web/jky_app_web.iml" filepath="$PROJECT_DIR$/jky_app_web/jky_app_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jky_bussiness_server/jky_bussiness_server.iml" filepath="$PROJECT_DIR$/jky_bussiness_server/jky_bussiness_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jky_config_server/jky_config_server.iml" filepath="$PROJECT_DIR$/jky_config_server/jky_config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jky_eureka_server/jky_eureka_server.iml" filepath="$PROJECT_DIR$/jky_eureka_server/jky_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jky_ext_server/jky_ext_server.iml" filepath="$PROJECT_DIR$/jky_ext_server/jky_ext_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jky_hystrix_dashboard/jky_hystrix_dashboard.iml" filepath="$PROJECT_DIR$/jky_hystrix_dashboard/jky_hystrix_dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/jky_multi_plus.iml" filepath="$PROJECT_DIR$/jky_multi_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jky_system_server/jky_system_server.iml" filepath="$PROJECT_DIR$/jky_system_server/jky_system_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jky_zuul_server/jky_zuul_server.iml" filepath="$PROJECT_DIR$/jky_zuul_server/jky_zuul_server.iml" />
     </modules>
   </component>
 </project>

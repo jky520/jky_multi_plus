@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>jky_app_web</artifactId>
+    <artifactId>jky_bussiness_server</artifactId>
 
     <dependencies>
         <dependency>
@@ -30,7 +30,7 @@
     </dependencies>
 
     <build>
-        <finalName>jky_app_web</finalName>
+        <finalName>jky_bussiness_server</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -38,4 +38,5 @@
             </plugin>
         </plugins>
     </build>
+
 </project>

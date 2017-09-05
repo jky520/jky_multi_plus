@@ -6,11 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jky_multi_plus" />
+        <module name="jky_app_web" />
+        <module name="jky_bussiness_server" />
+        <module name="jky_config_server" />
+        <module name="jky_eureka_server" />
+        <module name="jky_ext_server" />
+        <module name="jky_hystrix_dashboard" />
+        <module name="jky_system_server" />
+        <module name="jky_zuul_server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jky_multi_plus" target="1.5" />
+      <module name="jky_app_web" target="1.8" />
+      <module name="jky_bussiness_server" target="1.8" />
+      <module name="jky_config_server" target="1.8" />
+      <module name="jky_eureka_server" target="1.8" />
+      <module name="jky_ext_server" target="1.8" />
+      <module name="jky_hystrix_dashboard" target="1.8" />
+      <module name="jky_multi_plus" target="1.8" />
+      <module name="jky_system_server" target="1.8" />
+      <module name="jky_zuul_server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
